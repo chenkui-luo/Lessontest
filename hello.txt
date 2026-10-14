@@ -1,3 +1,4 @@
 ﻿第 1 行：工作区 Working Directory
 第 2 行：暂存区 Staging Area
 第 3 行：本地仓库 Local Repository
+第 4 行：远程仓库新增内容
